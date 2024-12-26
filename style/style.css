@@ -1,0 +1,31 @@
+body{
+    background-image:url("../images/wraper.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #31343c;
+    height: 30vh;
+    overflow: hidden;
+
+}
+.navbar{
+    transform: translateY(240px);
+    background-color: #3A497B;
+    
+}
+.logo a{
+    font-family:"Amatic SC", serif;
+    font-weight: 500;
+    font-size: 35px;
+}
+
+.nav-link{
+    font-family: "Assistant", serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+}
+
+
+
+
